@@ -1,0 +1,7 @@
+= Ruby Seq2seq
+
+== Purpose
+
+A pure Ruby approach to implement seq2seq like Fairseq.
+
+May depend on the `rumule` gem.
